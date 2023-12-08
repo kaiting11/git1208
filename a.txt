@@ -5,3 +5,5 @@ hi
 err
 dad
 123
+
+/login = login.txt
