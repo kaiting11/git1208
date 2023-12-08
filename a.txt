@@ -7,3 +7,4 @@ dad
 123
 
 /logout = logout.txt
+/login = login.txt
